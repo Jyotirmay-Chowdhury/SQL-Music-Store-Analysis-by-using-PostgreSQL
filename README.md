@@ -48,4 +48,4 @@ customers who spent this amount.
 # 2)PgAdmin4
 
 # Schema are used for  Music Store Database
-
+![image](https://user-images.githubusercontent.com/109020351/232332331-1b641466-749c-471c-9785-ca0ff307ca5f.png)
